@@ -35,5 +35,5 @@ Aqui no meu GitHub você vai encontrar:
 ---
 
 ### 📫 Contato
-- **LinkedIn:** https://www.linkedin.com/in/bryan-daniel-de-souza-fabricio-71a874285/
+- **LinkedIn:** https://www.linkhttps://www.linkedin.com/in/bryan-daniel-71a874285/
 - **E-mail:** bryandan.f@gmail.com
